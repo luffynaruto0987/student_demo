@@ -1,2 +1,2 @@
 # student_demo
-this my first project 
+this my first project for github
